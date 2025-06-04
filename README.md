@@ -1,2 +1,2 @@
-# fitness
+# Fitness
 Fitness
